@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Hi! Welcome to my GitHub 👋
+## I'm Kirsten Entz, a fourth-year Honours Chemistry co-op student at McMaster University
 
-You can use the [editor on GitHub](https://github.com/entzk/entzk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Small](https://user-images.githubusercontent.com/97901782/153451099-2301962c-daa4-4a70-afc4-f71966a1801f.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+> About Me
+- I am currently completing my senior thesis project working with the [Adronov Group](https://www.chemistry.mcmaster.ca/adronov/) at McMaster working on a polymer-based thin-film drug delivery project
+- I have a wide range of interests in chemistry and science - pharmaceutical, environmental, atmospheric, communications, project management - I'm open to anything!
+- I love working with people. Collaboration leads to the most success and makes challenges more fun! 
+- Aside from lab work, I enjoy working on social media, science communication, and event planning/hosting as [VP Social](https://macmuscs.wixsite.com/muscs/meet-the-team) on the McMaster Undergraduate Society for the Chemical Sciences
+- I am always open to trying new things and seeing how I can apply my knowledge to new places and experiences - both in and outside the lab
+- I want my scientific work to serve the community _and_ feed my curioisty
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Repositories
 
-```markdown
-Syntax highlighted code block
+- Learn more about me in my [awards](https://github.com/entzk/Awards), [courses](https://github.com/entzk/Courses-Taken), [extracurricular involvement](https://github.com/entzk/Extracurriculars), and [sample work](https://github.com/entzk/Written-Work) repositories!
 
-# Header 1
-## Header 2
-### Header 3
+> Contact Information
+- You can reach me at my personal email (kirstenentz@outlook.com) or my school email (entzk@mcmaster.ca)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/kirsten-entz/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/entzk/entzk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!---
+entzk/entzk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
